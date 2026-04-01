@@ -14,6 +14,7 @@ for (i=0; i<n; i++){
 
 }
 
+printf("Los componentes del vector son:\n");
 for (i=0; i<n; i++){
     printf("%d",A[i]);
 }
